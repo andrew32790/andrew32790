@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrew32790
+- 👋 Hi, I’m Adnrew
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C#.
 
