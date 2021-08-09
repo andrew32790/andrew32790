@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Adnrew
+- 👋 Hi, I’m Adnrew!
 - 👀 I’m interested in coding.
+- 👀 I'm a Unreal Engine 4 developer.
 - 🌱 I’m currently learning C#.
 
 
